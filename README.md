@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jairiidriss
-- 👀 I’m interested in Software engineering and Data science
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning deep learning algorithms
 - 📫 How to reach me jairiidriss@gmail.com
 
