@@ -1,4 +1,5 @@
-- 👋 Hello, World! I’m @jairiidriss, a Ph.D. student in machine learning
+- 👋 Hello, World! I’m @jairiidriss, a Ph.D. student in machine learning.
+- Background in data science and software engineering.
 - 📫 How to reach me: https://www.linkedin.com/in/jairiidriss/
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Idriss-Jairi-2"> Idriss JAIRI <a>
 - Google Scholar: <a href = "https://scholar.google.com/citations?user=KEb8hGMAAAAJ&hl=fr&authuser=1"> Idriss JAIRI <a>
